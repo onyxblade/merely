@@ -1,5 +1,6 @@
 bundle exec jekyll build
 cd _site
+rm -rf .git
 git init
 git add .
 git commit -m 'deploy'
