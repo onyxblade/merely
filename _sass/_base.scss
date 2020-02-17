@@ -2,7 +2,7 @@ body {
   background: $brand-color;
   color: $text-color;
   font-family: $font-family;
-  font-size: 1.3125em;
+  font-size: 20px;
   line-height: 1.5;
 }
 
@@ -25,21 +25,18 @@ h3 {
 
 h4 {
   font-size: 1.25em;
-  font-style: italic;
   margin: 1.875em auto;
   text-align: center;
 }
 
 h5 {
   font-size: 1em;
-  font-style: italic;
   margin: 2em auto;
   text-align: center;
 }
 
 h6 {
   font-size: .875em;
-  font-style: italic;
   margin: 2.25em auto;
   text-align: center;
 }

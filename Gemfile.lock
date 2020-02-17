@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/CicholGricenchos/jekyll-roc-calendar.git
+  revision: a65b08f6bc1f60ffca1ce5d7ffb7f48a21c34bb8
+  specs:
+    jekyll-roc-calendar (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -75,6 +81,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
+  jekyll-roc-calendar!
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
