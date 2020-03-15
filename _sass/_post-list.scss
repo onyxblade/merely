@@ -1,12 +1,6 @@
 .post-list {
   margin: 1em 0;
   list-style: none;
-  &:hover,
-  &:focus-within {
-    .post-link {
-      opacity: .6;
-    }
-  }
 }
 
 .post-list li {
@@ -62,12 +56,6 @@
     flex-grow: 1;
     flex-basis: 0;
     padding: 1em 0;
-  }
-  &:hover,
-  &:focus-within {
-    a {
-      opacity: .6;
-    }
   }
   a {
     text-decoration: none;
