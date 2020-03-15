@@ -22,7 +22,7 @@ layout: default
       {% if page.author %}
         <div itemprop="author">{{ page.author }}</div>
       {% endif %}
-      <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | roc_calendar }}</time>
+      <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | roc_calendar_date_only }}</time>
     </div>
   </div>
 
