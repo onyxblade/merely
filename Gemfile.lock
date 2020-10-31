@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/CicholGricenchos/jekyll-roc-calendar.git
-  revision: c29ed7dc425bb146e617ac5d934186a2d0d55fe3
+  revision: 3c5b1ccca040ca7c80d925c342922234373f97b8
   specs:
     jekyll-roc-calendar (0.0.1)
 
